@@ -52,5 +52,6 @@ This repository serves as my personal engineering notebook where I organize ever
 To continuously improve my engineering knowledge while building practical skills and documenting my learning for future reference.
 
 ---
+_last updated from VSCode on my laptop
 
 > **"Learning is not about collecting certificates; it is about building knowledge that lasts."**
