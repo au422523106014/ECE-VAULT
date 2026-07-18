@@ -39,6 +39,14 @@ This repository serves as my personal engineering notebook where I organize ever
 
 ---
 
+## 📅 Learning Log
+
+### July 2026
+
+- Completed IIT Madras Training
+- Started building my professional GitHub portfolio
+- Created ECE Vault repository
+
 # 🚀 Goal
 
 To continuously improve my engineering knowledge while building practical skills and documenting my learning for future reference.
