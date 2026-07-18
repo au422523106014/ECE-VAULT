@@ -1,2 +1,48 @@
-# ECE-VAULT
-A structured repository documenting my Electronics and Communication Engineering learning journey, projects, PCB designs, embedded systems, and GATE preparation.
+# 📘 ECE Vault
+
+Welcome to my **ECE Vault**!
+
+This repository is a collection of my learning journey as an **Electronics and Communication Engineering** student.
+
+Here, I will continuously document my knowledge, projects, practical experiments, PCB designs, embedded systems work, and GATE preparation.
+
+---
+
+# 🎯 Purpose
+
+This repository serves as my personal engineering notebook where I organize everything I learn throughout my academic and professional journey.
+
+---
+
+# 📚 Topics Covered
+
+- Embedded Systems
+- Internet of Things (IoT)
+- PCB Design (KiCad)
+- Electronics Manufacturing
+- Analog Electronics
+- Digital Electronics
+- Power Electronics
+- Communication Systems
+- Engineering Mathematics
+- GATE Preparation
+
+---
+
+# 🏛 Learning Sources
+
+- University Coursework
+- IIT Madras Training
+- Embedded Systems Internship
+- Self Learning
+- Technical Documentation
+
+---
+
+# 🚀 Goal
+
+To continuously improve my engineering knowledge while building practical skills and documenting my learning for future reference.
+
+---
+
+> **"Learning is not about collecting certificates; it is about building knowledge that lasts."**
