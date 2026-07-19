@@ -55,5 +55,6 @@ To continuously improve my engineering knowledge while building practical skills
 _last updated from VSCode on my laptop
 this line was added in the practice branch
 Resume updated on July 2026
+this line was added from conflict-practice branch
 
 > **"Learning is not about collecting certificates; it is about building knowledge that lasts."**
