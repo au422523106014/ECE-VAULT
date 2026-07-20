@@ -42,3 +42,7 @@ To develop a smart safety monitoring system that detects low oxygen levels and p
 - Red and Green LED status indication.
 - Remote monitoring through the Blynk IoT application.
 - Low-cost prototype for smart safety monitoring.
+
+## 📷 Project Image
+
+![Smart IoT Oxygen Level Detection](Images/YOUR_IMAGE_NAME.jpg)
