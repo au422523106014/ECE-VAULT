@@ -20,3 +20,15 @@ To develop a smart safety monitoring system that detects low oxygen levels and p
 - Jumper Wires
 - Breadboard
 - Blynk IoT Platform
+
+## ⚙️ Working Principle
+
+1. The MQ2 sensor continuously monitors the surrounding environment.
+2. The ESP32 reads the sensor values at regular intervals.
+3. If the measured value falls below the predefined threshold, the system:
+   - Activates the buzzer.
+   - Turns on the red LED.
+   - Switches the relay.
+   - Displays an alert on the LCD.
+   - Sends a notification through the Blynk IoT application.
+4. When the environment returns to a safe condition, the alert is stopped, the green LED turns on, and the LCD displays a normal status message.
