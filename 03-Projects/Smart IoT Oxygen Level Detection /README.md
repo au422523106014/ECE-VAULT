@@ -7,3 +7,16 @@ The Smart IoT Oxygen Level Detection and Crowd Safety System is an IoT-based saf
 ## 🎯 Objective
 
 To develop a smart safety monitoring system that detects low oxygen levels and provides instant alerts to improve public safety in enclosed or crowded environments.
+
+## 🛠 Components Used
+
+- ESP32 Development Board
+- MQ2 Gas Sensor
+- 16x2 I2C LCD Display
+- Relay Module
+- Buzzer
+- Red LED
+- Green LED
+- Jumper Wires
+- Breadboard
+- Blynk IoT Platform
