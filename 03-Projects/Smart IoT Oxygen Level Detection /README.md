@@ -46,3 +46,11 @@ To develop a smart safety monitoring system that detects low oxygen levels and p
 ## 📷 Project Image
 
 ![Smart IoT Oxygen Level Detection](Images/YOUR_IMAGE_NAME.jpg)
+
+## 🚀 Future Improvements
+
+- Integrate a dedicated oxygen sensor for accurate oxygen level measurement.
+- Develop a custom mobile application for monitoring and alerts.
+- Store sensor data on a cloud platform for analysis.
+- Add GPS functionality for emergency location tracking.
+- Improve the system by supporting multiple sensors in large environments.
