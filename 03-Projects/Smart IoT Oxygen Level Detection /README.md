@@ -32,3 +32,13 @@ To develop a smart safety monitoring system that detects low oxygen levels and p
    - Displays an alert on the LCD.
    - Sends a notification through the Blynk IoT application.
 4. When the environment returns to a safe condition, the alert is stopped, the green LED turns on, and the LCD displays a normal status message.
+
+## ✨ Features
+
+- Real-time monitoring using ESP32.
+- LCD display for live sensor readings.
+- Automatic buzzer alert during unsafe conditions.
+- Relay activation for emergency response.
+- Red and Green LED status indication.
+- Remote monitoring through the Blynk IoT application.
+- Low-cost prototype for smart safety monitoring.
